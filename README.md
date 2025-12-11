@@ -11,6 +11,8 @@ The dashboard highlights workforce structure, leadership impact, top-performing 
 - Covers **performance**, **satisfaction**, **training**, **attrition**, and **store sales**
 - Helps identify **top performers**, **high-risk departments**, and **growth opportunities**
 
+![img alt](https://github.com/iamsumansaha/HR-Employee-Analysis/blob/main/Dashboard/Screenshot%202025-12-11%20191408.png?raw=true)
+
 ---
 
 ## ❓ Key Business Questions
@@ -36,7 +38,9 @@ The dashboard highlights workforce structure, leadership impact, top-performing 
 - Full-time (core workforce)  
 - Part-time (flexibility support)  
 - Seasonal staff  
-- Other categories supporting peak demand  
+- Other categories supporting peak demand
+
+![img alt](https://github.com/iamsumansaha/HR-Employee-Analysis/blob/main/Dashboard/Screenshot%202025-12-11%20191419.png?raw=true)
 
 ---
 
@@ -76,6 +80,8 @@ The dashboard highlights workforce structure, leadership impact, top-performing 
 | **Fresh Produce** | 3.7 | 15% |
 | **Meat/Fish/Bakery** | 3.7 | 12% |
 
+![img alt](https://github.com/iamsumansaha/HR-Employee-Analysis/blob/main/Dashboard/Screenshot%202025-12-11%20191432.png?raw=true)
+
 **Insight:** Store Operations leads the organization. Logistics needs targeted improvement.
 
 ---
@@ -108,6 +114,9 @@ The dashboard highlights workforce structure, leadership impact, top-performing 
 | **Net Promoter Score** | 40.12 |
 | **Customer Rating** | 7.50 |
 | **Avg Waste** | 2.84% |
+
+![img alt](https://github.com/iamsumansaha/HR-Employee-Analysis/blob/main/Dashboard/Screenshot%202025-12-11%20191444.png?raw=true)
+
 
 ### ⭐ Top Performing Stores
 - **Los Angeles:** 105% of target  
